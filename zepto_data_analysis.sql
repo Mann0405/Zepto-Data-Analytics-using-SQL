@@ -15,7 +15,7 @@ quantity INTEGER
 
 SELECT * FROM zepto;
 
--- data cleaning
+-- data exploration
 -- checking for null values
 
 select * from zepto
